@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yanishbansal
-- 👀 I’m interested in software enginerring,cybersecurity,AI development.
-- 🌱 I’m currently learning cybersec.
+- 👀 I’m interested in Software Engineering,Cybersecurity,AI development.
+- 🌱 I’m currently contributing in Software Engineering and learning cybersec.
 - 💞️ I’m looking to collaborate on github.
 - 📫 You can reach me at - https://www.linkedin.com/in/yanish-bansal-439ba1202.
 
